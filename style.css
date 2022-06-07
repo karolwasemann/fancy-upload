@@ -1,3 +1,29 @@
-h1, h2 {
+h1,
+h2 {
   font-family: Lato;
+}
+
+body {
+  flex-direction: column;
+  background: #edf2f7;
+}
+
+.info-container {
+  margin: 2rem 2rem 2rem 25vw;
+  align-self: flex-start;
+  display: none;
+}
+
+.info-container > button {
+  margin: 1rem 0;
+  background-color: darkred;
+  color: white;
+  padding: 0.5rem 2rem;
+  border-radius: 0.8rem;
+  outline: none;
+  border: none;
+}
+
+.info-container > button:hover {
+  background-color: red;
 }

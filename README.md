@@ -16,7 +16,7 @@ Your tasks:
 
 1. display the name of the selected file
 
-2) Display the size of the file in MB
+2. Display the size of the file in MB
 
 3. display the file format
 
